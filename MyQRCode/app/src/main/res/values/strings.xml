@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyQRCode</string>
+    <string name="generate_qr">Generate QR Code</string>
+    <string name="qr_scanner">Scan QR Code</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="contents">Contents</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="address">Address</string>
+    <string name="required_text_field">Please enter name or Address</string>
+</resources>
